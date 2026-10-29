@@ -107,7 +107,7 @@ These repositories are a record of ongoing study. Some contain structured notes,
 ---
 
 <div align="center">
-**Industrial Engineering × Operations Research × Data-Driven Improvement**
+Industrial Engineering × Operations Research × Data-Driven Improvement
 
 *Thanks for visiting. Feel free to explore the repositories and share suggestions.*
 
