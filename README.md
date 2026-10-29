@@ -1,7 +1,7 @@
 <div align="center">
 
 
-# Hi, I'm Wei Lyu 👋
+# Hi, I'm Lyu Wei 👋
 
 ### Industrial Engineering · Operations Research · Smart Manufacturing
 
@@ -33,15 +33,7 @@ My interests lie at the intersection of industrial engineering, operations resea
 
 ## ⭐ Featured Projects | 代表项目
 
-### 1. [Truck–Drone Coordinated Contactless Delivery (CDP-TD)](https://github.com/LYUWEI-CODE/cdp-td)
-
-**MATLAB · Operations Research · Heuristic Optimization**
-
-A paper-reading and implementation project for a bilevel heuristic addressing truck-and-drone coordinated contactless delivery. The repository documents the mathematical model, algorithm structure, implementation decisions, and comparison with reported results.
-
-**Focus:** vehicle routing, truck–drone coordination, bilevel heuristics, BBO, ACS, local search.
-
-### 2. [ERP-Driven Manufacturing Business Simulation](https://github.com/LYUWEI-CODE/erp-simulation)
+### 1. [ERP-Driven Manufacturing Business Simulation](https://github.com/LYUWEI-CODE/erp-simulation)
 
 **Excel · Production & Operations · Financial Modeling**
 
@@ -49,13 +41,21 @@ An integrated manufacturing-business simulation model built around cross-functio
 
 **Focus:** production planning, inventory decisions, capacity planning, cross-functional coordination, financial statements.
 
-### 3. [Industrial IoT Predictive Maintenance](https://github.com/LYUWEI-CODE/iot-predictive-maintenance-system)
+### 2. [Industrial IoT Predictive Maintenance](https://github.com/LYUWEI-CODE/iot-predictive-maintenance-system)
 
 **Python · Machine Learning · Industrial Analytics**
 
 A predictive-maintenance workflow using 10,000 industrial equipment records. The project covers exploratory data analysis, feature engineering, imbalanced classification, failure prediction, fault-type identification, and a demonstration of maintenance scheduling.
 
 **Focus:** sensor data, classification, feature selection, imbalanced data, maintenance decisions.
+
+### 3. [Truck–Drone Coordinated Contactless Delivery (CDP-TD)](https://github.com/LYUWEI-CODE/cdp-td)
+
+**MATLAB · Operations Research · Heuristic Optimization**
+
+A paper-reading and implementation project for a bilevel heuristic addressing truck-and-drone coordinated contactless delivery. The repository documents the mathematical model, algorithm structure, implementation decisions, and comparison with reported results.
+
+**Focus:** vehicle routing, truck–drone coordination, bilevel heuristics, BBO, ACS, local search.
 
 ### 4. [Python for Industrial Engineering](https://github.com/LYUWEI-CODE/Python-for-Industrial-Engineering)
 
@@ -104,20 +104,9 @@ Alongside coding projects, I maintain repositories for books and concepts relate
 
 These repositories are a record of ongoing study. Some contain structured notes, while others currently serve mainly as reading indexes or reference-material collections.
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=LYUWEI-CODE&show_icons=true&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LYUWEI-CODE&layout=compact&hide_border=true&langs_count=8" alt="Top languages" />
-
-</div>
-
 ---
 
 <div align="center">
-
-
 **Industrial Engineering × Operations Research × Data-Driven Improvement**
 
 *Thanks for visiting. Feel free to explore the repositories and share suggestions.*
